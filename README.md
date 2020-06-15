@@ -12,3 +12,6 @@ the player will be the proud owner of a virtual zoo that has spaces to house tig
 
 ## How to run:
 Compile mainZoo.cpp, Zoo.cpp, Animal.cpp, Tiger.cpp, Penguin.cpp, and Turtle.cpp together.
+
+## Run on repl.it
+https://zootycoon.kberba.repl.run/
